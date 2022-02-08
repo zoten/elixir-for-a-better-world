@@ -1,6 +1,6 @@
 # Elixir for a better world!
 
-[https://img.shields.io/badge/love-%F0%9F%A7%A1-blue](https://img.shields.io/badge/love-%F0%9F%A7%A1-blue)
+![Make it better!](./media/love-blue.svg)
 
 A more-or-less-curated list of Elixir OSS projects or private companies aimed for the good of the world 🧡
 
