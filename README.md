@@ -30,6 +30,7 @@ Categories are my own choice of the moment and are subject to change (and feedba
 
  * [Change](https://www.change.org/) ♡ nonprofit-owned platform for social change
  * [Crisis Heroes](https://www.crisisheroes.com/) ♡ free community platform where you can offer or seek help
+ * [Glific](https://glific.org/) ([repo](https://github.com/glific/glific)) ♡ An open source, two-way communication platform for NGOs to chat & uplift lakhs of lives at the same time
 
 ### Climate change and sustainability
 
