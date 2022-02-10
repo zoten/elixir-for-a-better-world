@@ -2,7 +2,7 @@
 
 ![Make it better!](./media/love-blue.svg)
 
-A more-or-less-curated list of Elixir OSS projects or private companies aimed for the good of the world 🧡
+A more-or-less-curated list of [Elixir](https://elixir-lang.org/) OSS projects or private companies aimed for the good of the world 🧡
 
 (inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir/))
 
@@ -10,13 +10,14 @@ A more-or-less-curated list of Elixir OSS projects or private companies aimed fo
 
 Because I need positive vibes. Because I need to know there's something worth fighting for.
 
-Because the Elixir community is so kind, diverse and inclusive I know there must be a lot of projects expressing this.
+Because the [Elixir](https://elixir-lang.org/) community is so kind, diverse and inclusive I know there must be a lot of projects expressing this.
 
 Because maybe you're looking for a new job, why not joining the good guys?
 
 ## How?
 
 Started by a small Twitter "[survey](https://twitter.com/zoten_deschain/status/1490436544221614081)", directly to this repo.
+First help and contributions by the awesome [Elixir Forum](https://elixirforum.com/t/elixir-for-a-better-world/45910).
 Categories are my own choice of the moment and are subject to change (and feedback!)
 
 ## Let's make it better!
