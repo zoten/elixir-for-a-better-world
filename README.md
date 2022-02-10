@@ -23,7 +23,7 @@ Categories are my own choice of the moment and are subject to change (and feedba
 
 ### Learning platforms / systems
 
- * [Moodle](https://moodle.com/) ♡ open source learning management system
+ * [Moodle](https://moodle.com/) ♡ open source learning management system. [MoodleNet](https://docs.moodle.org/dev/MoodleNet/tech/stack#Rationale_for_choosing_Elixir_for_the_MoodleNet_back-end) is the part of the stack currently built in Elixir
 
 ### Social change
 
