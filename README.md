@@ -22,6 +22,9 @@ Categories are my own choice of the moment and are subject to change (and feedba
 
 ## Let's make it better!
 
+### Climate change and sustainability
+
+ * [Sero](https://sero.life/) ♡ private company leveraging nerves to build iot for intelligent energy control and optimization as part of decarbonising homes in the UK
 ### Learning platforms / systems
 
  * [Moodle](https://moodle.com/) ♡ open source learning management system. [MoodleNet](https://docs.moodle.org/dev/MoodleNet/tech/stack#Rationale_for_choosing_Elixir_for_the_MoodleNet_back-end) is the part of the stack currently built in Elixir
@@ -32,10 +35,6 @@ Categories are my own choice of the moment and are subject to change (and feedba
  * [Crisis Heroes](https://www.crisisheroes.com/) ♡ free community platform where you can offer or seek help
  * [Glific](https://glific.org/) ([repo](https://github.com/glific/glific)) ♡ An open source, two-way communication platform for NGOs to chat & uplift lakhs of lives at the same time
  * [Proca](https://proca.app/) ([repo](https://github.com/fixthestatusquo/proca-server/tree/main/proca)) ♡ An universal Progressive Campaigning action tool for JAM stack apps
-
-### Climate change and sustainability
-
- * [Sero](https://sero.life/) ♡ private company leveraging nerves to build iot for intelligent energy control and optimization as part of decarbonising homes in the UK
 
 ### Working culture
 
