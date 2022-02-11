@@ -24,7 +24,10 @@ Categories are my own choice of the moment and are subject to change (and feedba
 
 ### Climate change and sustainability
 
+ * [Bowery Farming](https://boweryfarming.com) ♡ private company reimagining farming from the ground up to eradicate trade-offs between quality and quantity, sustainability and scale
  * [Sero](https://sero.life/) ♡ private company leveraging nerves to build iot for intelligent energy control and optimization as part of decarbonising homes in the UK
+
+
 ### Learning platforms / systems
 
  * [Moodle](https://moodle.com/) ♡ open source learning management system. [MoodleNet](https://docs.moodle.org/dev/MoodleNet/tech/stack#Rationale_for_choosing_Elixir_for_the_MoodleNet_back-end) is the part of the stack currently built in Elixir
