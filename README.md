@@ -32,11 +32,12 @@ Categories are my own choice of the moment and are subject to change (and feedba
 
  * [Moodle](https://moodle.com/) ♡ open source learning management system. [MoodleNet](https://docs.moodle.org/dev/MoodleNet/tech/stack#Rationale_for_choosing_Elixir_for_the_MoodleNet_back-end) is the part of the stack currently built in Elixir
 
-### Social change and community
+### Social impact and community
 
  * [Change](https://www.change.org/) ♡ nonprofit-owned platform for social change
  * [Crisis Heroes](https://www.crisisheroes.com/) ♡ free community platform where you can offer or seek help
  * [Glific](https://glific.org/) ([repo](https://github.com/glific/glific)) ♡ An open source, two-way communication platform for NGOs to chat & uplift lakhs of lives at the same time
+ * [OpenFn](https://www.openfn.org/) ([GitHub Organization](https://github.com/OpenFn)) ♡ An open source integration platform for data integration aimed at governments and social impact organizations
  * [Papa](https://www.papa.com) ♡ Private company offering services to support older adults through "pals"
  * [Proca](https://proca.app/) ([repo](https://github.com/fixthestatusquo/proca-server/tree/main/proca)) ♡ An universal Progressive Campaigning action tool for JAM stack apps
  * [Turn](https://www.turn.io/) ♡ Public Benefit Organization building engagement tools for social impact organizations
